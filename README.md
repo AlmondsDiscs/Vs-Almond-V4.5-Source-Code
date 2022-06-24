@@ -11,10 +11,28 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 
 ...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml
 
-## Credits:
+## Vs Almond Creator
 * AlmondsDemo - Music, Art, Animations, Coder, Cover Maker
+
+## Contributors
 * Yin - Art
 * Xyriax - Charter
+* Glubbee - Art
+
+## A Bunch of unneccesary credits but i don't want to feel anxious all the time so yea
+* Tsuraran Creator of Cynthia - OG Composer for Bee-ware
+* Hooda The Antagonist (i had to credit them) - OG Composer of No Villains
+* AyyBeff - OG Composer (or remixer idk) of No Heroes
+* Cynda - OG Composer of Strawberry, Decimal (OLD), and Galactic
+* shekkai47 - OG Composer of Summer Sunset
+* fluffyhairs - OG Composer of osoing12 Track 1
+* Aadsta - OG Composer of OG, Phonetic, Tessattack, and Ticking
+* Grantare - OG Composer of Sart Producer
+* lostinstruments - OG Composer of For Hire
+* Rareblin - OG Composer of Defeat
+* MoldyGH - OG Composer of House and Cheating
+
+## Psych Engine Credits
 * Shadow Mario - Psych Engine Creator, Coding
 * RiverOaken - Arts and Animations for Psych Engine
 * bbpanzu - Ex-Coder for this Engine
