@@ -78,7 +78,7 @@ _____________________________________
 ### Almond Week Extras
   * added No Intentions, Pixel Almond, and Interupt
 ### Caped Noob Week Extras
-  * a song named Biased, where you play as cynthia in the Based. thats literally it.
+  * a song named Biased, where you play as cynthia in the song Based. thats literally it.
 ### almond.html Week Extras
   * added the song toss
   * ski???????????
