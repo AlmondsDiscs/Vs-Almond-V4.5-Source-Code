@@ -49,9 +49,9 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Nebula_Zorua - VCR Shader code
 _____________________________________
 
-# Thingys
+# Things i changed and added for this mod
 
-## weeks in this mod:
+## Weeks:
 ### Sarcasm:
   * some song i decided to add 
 ### Almond!!:
@@ -67,3 +67,27 @@ _____________________________________
 ### Almond?:
   * Almond returns!
   * also replaced the test cover with a cuberoot cover
+
+## Freeplay:
+### Almo
+  * Sapling song added
+  * slight changes to Green Apple
+  * new almo spritesheet!!!!!!!
+### Caped Noob meets Cynthia
+  * new playable caped noob spritesheet
+### Almond Week Extras
+  * added No Intentions, Pixel Almond, and Interupt
+### Caped Noob Week Extras
+  * a song named Biased, where you play as cynthia in the Based. thats literally it.
+### almond.html Week Extras
+  * added the song toss
+  * ski???????????
+### Songs you unlock if you beat the "Almond returns!" week
+  * OG cover now sounds cooler
+  * idk what i changed in ticking exactly but i changed something
+  * Added Delay and an early version of Generic
+  
+## Debug songs you can try 
+  * Bullcrap
+  * C_Z
+  * Debugged
