@@ -91,5 +91,5 @@ _____________________________________
   * Bullcrap
   * C_Z
   * Debugged
-  * goofball (still early version, don't play yet!!)
+  * goofball (still a very early version, don't play yet!!)
   * exaggerate
