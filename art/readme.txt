@@ -59,15 +59,18 @@ https://kawaisprite.bandcamp.com/album/friday-night-funkin-ost-vol-1
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
 
 Friday Night Funkin' is made by ninjamuffin99 (programmer), PhantomArcade (animator), kawaisprite (musician), and evilsk8r (artist)
+and The Almond Mod is made by AlmondsDemo!!
 
 https://twitter.com/ninja_muffin99
 https://twitter.com/phantomarcade3k
 https://twitter.com/kawaisprite
 https://twitter.com/evilsk8r
+https://twitter.com/almondsdemo
 
 Pico is created by Tom Fulp
 Skid and Pump are created by SrPelo
 BassetFilms did music for lemon monster songs
+Yin, Xyriax gave me permission to use their ocs
 
 
 Final important thing, this is made with the support and love to and from Newgrounds.com.
