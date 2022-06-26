@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Return",
+			"almonds",
+			[
+				255,
+				75,
+				75
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "almond-return",
+	"difficulties": "Main, Alt",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "hes back at it again babyyyyyyy",
+	"weekName": "thereturn",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}

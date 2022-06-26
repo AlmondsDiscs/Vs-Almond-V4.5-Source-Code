@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"OG",
+			"old-almonds",
+			[
+				255,
+				70,
+				70
+			]
+		],
+		[
+			"Time",
+			"biggity-dawg",
+			[
+				101,
+				101,
+				101
+			]
+		],
+		[
+			"Awesome",
+			"noob",
+			[
+				255,
+				215,
+				60
+			]
+		],
+		[
+			"Delay",
+			"almo",
+			[
+				225,
+				0,
+				0
+			]
+		],
+		[
+			"Generic",
+			"cool-almond",
+			[
+				255,
+				75,
+				75
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "almond-stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "yeaaaaaaaa",
+	"weekName": "og",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}

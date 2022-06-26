@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"biased",
+			"hmmm",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Cart ride Beta Mix",
+			"noob",
+			[
+				255,
+				215,
+				60
+			]
+		],
+		[
+			"Bee-ware",
+			"cynthia",
+			[
+				255,
+				215,
+				60
+			]
+		],
+		[
+			"Green Apple",
+			"almo",
+			[
+				0,
+				255,
+				0
+			]
+		],
+			[
+			"Sapling",
+			"almo",
+			[
+				220,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "cool-stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "cool guy",
+	"weekName": "cart ride",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}

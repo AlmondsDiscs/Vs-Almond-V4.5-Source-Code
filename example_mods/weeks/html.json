@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Shallow",
+			"skrunkle",
+			[	
+				255, 
+				255,
+				255
+			]
+		],
+		[
+			"No-Exploiting",
+			"skrunkle",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"HDMI",
+			"skrunkle",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "html",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "awesome",
+	"weekName": "html",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}

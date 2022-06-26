@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"Cart",
+			"noob",
+			[
+				255,
+				215,
+				60
+			]
+		],
+		[
+			"Ride",
+			"noob",
+			[
+				255,
+				215,
+				60
+			]
+		],
+		[
+			"For Trouble",
+			"yin",
+			[
+				146,
+				113,
+				235
+			]
+		],
+		[
+			"No Dumbasses",
+			"blueman",
+			[
+				0,
+				0,
+				225
+			]
+		],
+		[
+			"Based",
+			"hmm",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "cool-stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "cool people",
+	"weekName": "cart ride",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}

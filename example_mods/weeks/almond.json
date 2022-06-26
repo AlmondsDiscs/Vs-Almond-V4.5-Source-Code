@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Nest", "almonds", [255, 75, 75]],
+		["Compass", "almonds", [255, 75, 75]],
+		["Interfere", "almonds", [255, 75, 75]],
+		["Oat", "almonds", [255, 75, 75]]
+	],
+
+	"weekCharacters": [
+		"almonds",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "almond-stage",
+
+	"storyName": "swag",
+	"weekBefore": "totuliar",
+	"weekName": "almonds",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

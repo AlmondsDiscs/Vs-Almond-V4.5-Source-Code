@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Short", "almonds", [255, 75, 75]],
+		["Defeated", "bf-opponent", [75, 213, 255]],
+		["Sensitive", "almonds", [255, 75, 75]],
+		["Interupt", "oh-no", [255, 255, 255]],
+		["No Intentions", "her", [255, 255, 255]],
+		["Pixel Almond", "biggity-dawg", [255, 75, 75]]
+	],
+
+	"weekCharacters": [
+		"almonds",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "almond-stage",
+
+	"storyName": "bonus",
+	"weekBefore": "totuliar",
+	"weekName": "bonus",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

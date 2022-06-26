@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Chirumiru",
+			"skrunkle",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "html",
+	"difficulties": "Lunatic, Short",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "hepic piano noises B)",
+	"weekName": "chirumiru",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}
