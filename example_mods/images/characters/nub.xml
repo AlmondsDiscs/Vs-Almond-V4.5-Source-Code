@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nub.png"><SubTexture name="nub cool idle0000" x="0" y="1049" width="505" height="877" frameX="-397" frameY="-198" frameWidth="1280" frameHeight="1080" />
+<SubTexture name="nub cool idle0001" x="998" y="1049" width="499" height="876" frameX="-404" frameY="-200" frameWidth="1280" frameHeight="1080" />
+<SubTexture name="nub cool idle0002" x="1931" y="0" width="496" height="876" frameX="-406" frameY="-200" frameWidth="1280" frameHeight="1080" />
+<SubTexture name="nub right0000" x="0" y="0" width="818" height="1049" frameX="-79" frameY="-24" frameWidth="1280" frameHeight="1080" />
+<SubTexture name="nub right0001" x="505" y="1049" width="493" height="877" frameX="-406" frameY="-201" frameWidth="1280" frameHeight="1080" />
+<SubTexture name="nub up0000" x="818" y="0" width="496" height="903" frameX="-399" frameY="-158" frameWidth="1280" frameHeight="1080" />
+<SubTexture name="nub up0001" x="1314" y="0" width="617" height="887" frameX="-260" frameY="-102" frameWidth="1280" frameHeight="1080" />
+<SubTexture name="nub sit down0000" x="1931" y="876" width="491" height="874" frameX="-413" frameY="-203" frameWidth="1280" frameHeight="1080" />
+<SubTexture name="nub sit down0001" x="0" y="1926" width="475" height="508" frameX="-349" frameY="-562" frameWidth="1280" frameHeight="1080" />
+<SubTexture name="nub left drink0000" x="2427" y="0" width="609" height="875" frameX="-297" frameY="-201" frameWidth="1280" frameHeight="1080" />
+<SubTexture name="nub left drink0001" x="2427" y="875" width="589" height="875" frameX="-310" frameY="-202" frameWidth="1280" frameHeight="1080" />
+</TextureAtlas>

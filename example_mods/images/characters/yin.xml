@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yin.png"><SubTexture name="yin idle0000" x="627" y="0" width="304" height="598" frameX="-123" frameY="-34" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin idle0001" x="627" y="0" width="304" height="598" frameX="-123" frameY="-34" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin idle0002" x="635" y="602" width="303" height="591" frameX="-116" frameY="-41" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin idle0003" x="635" y="602" width="303" height="591" frameX="-116" frameY="-41" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin idle0004" x="1235" y="0" width="293" height="588" frameX="-114" frameY="-44" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin idle0005" x="1235" y="0" width="293" height="588" frameX="-114" frameY="-44" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin idle0006" x="938" y="602" width="290" height="590" frameX="-114" frameY="-42" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin idle0007" x="938" y="602" width="290" height="590" frameX="-114" frameY="-42" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin right0000" x="931" y="0" width="304" height="597" frameX="-104" frameY="-35" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin right0001" x="931" y="0" width="304" height="597" frameX="-104" frameY="-35" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin right0002" x="1528" y="0" width="302" height="587" frameX="-110" frameY="-45" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin right0003" x="1528" y="0" width="302" height="587" frameX="-110" frameY="-45" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin up0000" x="0" y="0" width="322" height="602" frameX="-88" frameY="-30" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin up0001" x="0" y="0" width="322" height="602" frameX="-88" frameY="-30" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin up0002" x="303" y="602" width="332" height="593" frameX="-82" frameY="-39" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin up0003" x="303" y="602" width="332" height="593" frameX="-82" frameY="-39" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin left0000" x="322" y="0" width="305" height="600" frameX="-136" frameY="-32" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin left0001" x="322" y="0" width="305" height="600" frameX="-136" frameY="-32" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin left0002" x="0" y="602" width="303" height="597" frameX="-127" frameY="-35" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin left0003" x="0" y="602" width="303" height="597" frameX="-127" frameY="-35" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin down0000" x="326" y="1199" width="343" height="492" frameX="-120" frameY="-143" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin down0001" x="326" y="1199" width="343" height="492" frameX="-120" frameY="-143" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin down0002" x="0" y="1199" width="326" height="493" frameX="-116" frameY="-142" frameWidth="530" frameHeight="640" />
+<SubTexture name="yin down0003" x="0" y="1199" width="326" height="493" frameX="-116" frameY="-142" frameWidth="530" frameHeight="640" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="basedcynthia.png"><SubTexture name="basedcynthia stand0000" x="554" y="445" width="284" height="422" frameX="-860" frameY="-57" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia left0000" x="1151" y="0" width="309" height="410" frameX="-797" frameY="-72" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia left0001" x="1151" y="0" width="309" height="410" frameX="-797" frameY="-72" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia left0002" x="838" y="445" width="302" height="414" frameX="-815" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia left0003" x="838" y="445" width="302" height="414" frameX="-815" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia down0000" x="858" y="0" width="293" height="436" frameX="-834" frameY="-72" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia down0001" x="858" y="0" width="293" height="436" frameX="-834" frameY="-72" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia down0002" x="0" y="0" width="281" height="445" frameX="-853" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia down0003" x="0" y="0" width="281" height="445" frameX="-853" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia up0000" x="0" y="445" width="274" height="432" frameX="-878" frameY="-1" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia up0001" x="0" y="445" width="274" height="432" frameX="-878" frameY="-1" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia idle0000" x="274" y="445" width="280" height="429" frameX="-869" frameY="-18" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia up0002" x="274" y="445" width="280" height="429" frameX="-869" frameY="-18" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia right0000" x="565" y="0" width="293" height="438" frameX="-919" frameY="-12" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia right0001" x="565" y="0" width="293" height="438" frameX="-919" frameY="-12" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia right0002" x="281" y="0" width="284" height="439" frameX="-913" frameY="-6" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basedcynthia right0003" x="281" y="0" width="284" height="439" frameX="-913" frameY="-6" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

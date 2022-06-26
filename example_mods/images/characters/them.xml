@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="them.png"><SubTexture name="them almondidle0000" x="1772" y="540" width="361" height="537" frameX="-90" frameY="-181" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondidle0001" x="1772" y="540" width="361" height="537" frameX="-90" frameY="-181" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondidle0002" x="960" y="1113" width="340" height="540" frameX="-107" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondidle0003" x="960" y="1113" width="340" height="540" frameX="-107" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondidle0004" x="308" y="1113" width="331" height="543" frameX="-123" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondidle0005" x="308" y="1113" width="331" height="543" frameX="-123" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondright0000" x="1300" y="1113" width="360" height="540" frameX="-143" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondright0001" x="1300" y="1113" width="360" height="540" frameX="-143" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondright0002" x="1772" y="0" width="361" height="540" frameX="-134" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondright0003" x="1772" y="0" width="361" height="540" frameX="-134" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondyoo0000" x="384" y="1657" width="400" height="462" frameX="-52" frameY="-242" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondyoo0001" x="384" y="1657" width="400" height="462" frameX="-52" frameY="-242" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondyoo0002" x="0" y="1657" width="384" height="473" frameX="-67" frameY="-233" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondyoo0003" x="0" y="1657" width="384" height="473" frameX="-67" frameY="-233" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondup0000" x="0" y="559" width="310" height="554" frameX="-123" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondup0001" x="0" y="559" width="310" height="554" frameX="-123" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondup0002" x="1174" y="550" width="301" height="548" frameX="-128" frameY="-166" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondup0003" x="1174" y="550" width="301" height="548" frameX="-128" frameY="-166" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondleft0000" x="639" y="1113" width="321" height="542" frameX="-109" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondleft0001" x="639" y="1113" width="321" height="542" frameX="-109" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondleft0002" x="0" y="1113" width="308" height="544" frameX="-118" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them almondleft0003" x="0" y="1113" width="308" height="544" frameX="-118" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondidle0000" x="561" y="0" width="303" height="558" frameX="-528" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondidle0001" x="561" y="0" width="303" height="558" frameX="-528" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondidle0002" x="864" y="0" width="310" height="556" frameX="-523" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondidle0003" x="864" y="0" width="310" height="556" frameX="-523" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondidle0004" x="1174" y="0" width="309" height="550" frameX="-525" frameY="-165" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondidle0005" x="1174" y="0" width="309" height="550" frameX="-525" frameY="-165" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondup0000" x="310" y="559" width="352" height="552" frameX="-516" frameY="-163" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondup0001" x="310" y="559" width="352" height="552" frameX="-516" frameY="-163" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondup0002" x="662" y="559" width="323" height="552" frameX="-518" frameY="-163" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondup0003" x="662" y="559" width="323" height="552" frameX="-518" frameY="-163" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondleft0000" x="0" y="0" width="285" height="559" frameX="-547" frameY="-156" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondleft0001" x="0" y="0" width="285" height="559" frameX="-547" frameY="-156" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondleft0002" x="285" y="0" width="276" height="559" frameX="-555" frameY="-156" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondleft0003" x="285" y="0" width="276" height="559" frameX="-555" frameY="-156" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondwoah0000" x="784" y="1657" width="306" height="439" frameX="-520" frameY="-232" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondwoah0001" x="784" y="1657" width="306" height="439" frameX="-520" frameY="-232" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondwoah0002" x="1772" y="1077" width="319" height="442" frameX="-516" frameY="-229" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondwoah0003" x="1772" y="1077" width="319" height="442" frameX="-516" frameY="-229" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondright0000" x="1483" y="545" width="282" height="542" frameX="-566" frameY="-168" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondright0001" x="1483" y="545" width="282" height="542" frameX="-566" frameY="-168" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondright0002" x="1483" y="0" width="289" height="545" frameX="-553" frameY="-165" frameWidth="1280" frameHeight="720" />
+<SubTexture name="them salmondright0003" x="1483" y="0" width="289" height="545" frameX="-553" frameY="-165" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

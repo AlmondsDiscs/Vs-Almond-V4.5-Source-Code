@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="caped.png"><SubTexture name="caped idle0000" x="558" y="1051" width="275" height="519" frameX="-511" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped idle0001" x="541" y="527" width="287" height="523" frameX="-494" frameY="-156" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped idle0002" x="845" y="0" width="291" height="524" frameX="-488" frameY="-155" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped idle0003" x="845" y="0" width="291" height="524" frameX="-488" frameY="-155" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped idle0004" x="845" y="0" width="291" height="524" frameX="-488" frameY="-155" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped idle0005" x="833" y="1051" width="284" height="519" frameX="-500" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped idle0006" x="833" y="1051" width="284" height="519" frameX="-500" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped idle0007" x="0" y="1051" width="280" height="520" frameX="-507" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped idle0008" x="0" y="1051" width="280" height="520" frameX="-507" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped idle0009" x="558" y="1051" width="275" height="519" frameX="-511" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped idle0010" x="558" y="1051" width="275" height="519" frameX="-511" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped up0000" x="0" y="527" width="272" height="524" frameX="-516" frameY="-155" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped up0001" x="272" y="527" width="269" height="524" frameX="-519" frameY="-155" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped up0002" x="828" y="527" width="284" height="522" frameX="-505" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped up0003" x="828" y="527" width="284" height="522" frameX="-505" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped up0004" x="1136" y="0" width="296" height="522" frameX="-493" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped up0005" x="1136" y="0" width="296" height="522" frameX="-493" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped up0006" x="1117" y="1051" width="303" height="519" frameX="-483" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped up0007" x="1117" y="1051" width="303" height="519" frameX="-483" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped left0000" x="275" y="0" width="285" height="525" frameX="-486" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped left0001" x="560" y="0" width="285" height="525" frameX="-486" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped left0002" x="1136" y="522" width="282" height="522" frameX="-494" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped left0003" x="1432" y="0" width="282" height="522" frameX="-494" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped left0004" x="1432" y="522" width="281" height="521" frameX="-503" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped left0005" x="1432" y="522" width="281" height="521" frameX="-503" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped left0006" x="1420" y="1051" width="279" height="519" frameX="-507" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped left0007" x="1420" y="1051" width="279" height="519" frameX="-507" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped down0000" x="1075" y="1571" width="347" height="432" frameX="-484" frameY="-262" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped down0001" x="712" y="1571" width="363" height="435" frameX="-468" frameY="-259" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped down0002" x="356" y="1571" width="356" height="443" frameX="-475" frameY="-251" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped down0003" x="356" y="1571" width="356" height="443" frameX="-475" frameY="-251" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped down0004" x="0" y="1571" width="356" height="455" frameX="-477" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped down0005" x="0" y="1571" width="356" height="455" frameX="-477" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped down0006" x="1999" y="0" width="336" height="480" frameX="-479" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped down0007" x="1999" y="0" width="336" height="480" frameX="-479" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped right0000" x="1714" y="0" width="285" height="509" frameX="-522" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped right0001" x="1714" y="0" width="285" height="509" frameX="-522" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped right0002" x="280" y="1051" width="278" height="520" frameX="-523" frameY="-166" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped right0003" x="280" y="1051" width="278" height="520" frameX="-523" frameY="-166" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped right0004" x="0" y="0" width="275" height="527" frameX="-511" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="caped right0005" x="0" y="0" width="275" height="527" frameX="-511" frameY="-160" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

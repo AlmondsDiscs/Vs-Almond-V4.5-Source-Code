@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="caped_noobv2.png">
+<SubTexture name="v2 bored idle0000" x="1294" y="0" width="289" height="609" frameX="-243" frameY="-451" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0001" x="0" y="0" width="301" height="612" frameX="-231" frameY="-448" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0002" x="301" y="0" width="311" height="610" frameX="-221" frameY="-450" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0003" x="1583" y="0" width="344" height="609" frameX="-188" frameY="-451" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0004" x="692" y="1222" width="370" height="606" frameX="-162" frameY="-454" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0005" x="0" y="1222" width="358" height="608" frameX="-174" frameY="-452" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0006" x="612" y="0" width="326" height="610" frameX="-206" frameY="-450" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0007" x="1583" y="609" width="289" height="608" frameX="-243" frameY="-452" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0008" x="2245" y="605" width="289" height="603" frameX="-242" frameY="-457" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0009" x="1423" y="1222" width="289" height="605" frameX="-242" frameY="-455" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0010" x="358" y="1222" width="334" height="607" frameX="-243" frameY="-453" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0011" x="1927" y="0" width="318" height="605" frameX="-243" frameY="-455" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0012" x="1294" y="609" width="289" height="607" frameX="-243" frameY="-453" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 bored idle0013" x="1927" y="605" width="289" height="605" frameX="-243" frameY="-455" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 point0000" x="1927" y="1210" width="305" height="605" frameX="-227" frameY="-455" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 point0001" x="2245" y="0" width="336" height="605" frameX="-196" frameY="-455" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 point0002" x="1062" y="1222" width="361" height="606" frameX="-172" frameY="-454" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 point0003" x="938" y="0" width="356" height="610" frameX="-158" frameY="-450" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 point0004" x="0" y="612" width="352" height="610" frameX="-167" frameY="-450" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 point0005" x="352" y="612" width="330" height="610" frameX="-189" frameY="-450" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 point0006" x="682" y="612" width="307" height="610" frameX="-212" frameY="-450" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 point0007" x="989" y="612" width="292" height="610" frameX="-227" frameY="-450" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 sit0000" x="2245" y="1208" width="292" height="602" frameX="-227" frameY="-454" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 sit0001" x="349" y="2428" width="352" height="585" frameX="-174" frameY="-478" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 sit0002" x="1069" y="2428" width="423" height="503" frameX="-131" frameY="-560" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 sit0003" x="1492" y="2428" width="403" height="503" frameX="-131" frameY="-560" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 jump0000" x="2883" y="595" width="301" height="584" frameX="-225" frameY="-409" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 jump0001" x="2883" y="0" width="342" height="595" frameX="-184" frameY="-386" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 jump0002" x="701" y="2428" width="368" height="579" frameX="-160" frameY="-378" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 jump0003" x="2883" y="1761" width="335" height="581" frameX="-192" frameY="-350" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 jump0004" x="0" y="2428" width="349" height="589" frameX="-178" frameY="-378" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 jump0005" x="2883" y="1179" width="313" height="582" frameX="-214" frameY="-440" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 jump0006" x="0" y="1830" width="293" height="598" frameX="-235" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0000" x="293" y="1830" width="307" height="598" frameX="-221" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0001" x="600" y="1830" width="307" height="598" frameX="-221" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0002" x="907" y="1830" width="307" height="598" frameX="-221" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0003" x="1214" y="1830" width="307" height="598" frameX="-221" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0004" x="1214" y="1830" width="307" height="598" frameX="-221" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0005" x="1214" y="1830" width="307" height="598" frameX="-221" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0006" x="1521" y="1830" width="307" height="598" frameX="-221" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0007" x="1828" y="1830" width="293" height="598" frameX="-235" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0008" x="1828" y="1830" width="293" height="598" frameX="-235" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0009" x="1828" y="1830" width="293" height="598" frameX="-235" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0010" x="2121" y="1830" width="302" height="598" frameX="-226" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0011" x="2581" y="0" width="302" height="598" frameX="-226" frameY="-445" frameWidth="720" frameHeight="1280" />
+<SubTexture name="v2 drink0012" x="2581" y="0" width="302" height="598" frameX="-226" frameY="-445" frameWidth="720" frameHeight="1280" />
+</TextureAtlas>

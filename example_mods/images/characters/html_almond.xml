@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="html_almond.png"><SubTexture name="html almond idle0000" x="196" y="266" width="207" height="261" frameX="-166" frameY="-90" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond idle0001" x="0" y="266" width="196" height="262" frameX="-176" frameY="-88" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond right0000" x="454" y="528" width="245" height="249" frameX="-176" frameY="-100" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond right0001" x="851" y="0" width="198" height="245" frameX="-205" frameY="-104" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond up0000" x="404" y="0" width="226" height="263" frameX="-175" frameY="-87" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond up0001" x="244" y="528" width="210" height="255" frameX="-176" frameY="-94" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond left0000" x="574" y="786" width="203" height="227" frameX="-160" frameY="-121" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond left0001" x="851" y="245" width="187" height="234" frameX="-155" frameY="-114" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond down0000" x="0" y="786" width="196" height="229" frameX="-178" frameY="-119" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond down0001" x="851" y="479" width="188" height="232" frameX="-177" frameY="-116" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond alt idle0000" x="0" y="0" width="205" height="266" frameX="-166" frameY="-89" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond alt idle0001" x="403" y="266" width="205" height="261" frameX="-167" frameY="-89" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond alt right0000" x="630" y="261" width="220" height="258" frameX="-182" frameY="-91" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond alt right0001" x="0" y="528" width="244" height="258" frameX="-183" frameY="-91" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond alt down0000" x="669" y="1015" width="188" height="193" frameX="-202" frameY="-157" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond alt down0001" x="857" y="1015" width="162" height="189" frameX="-202" frameY="-158" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond alt up0000" x="205" y="0" width="199" height="266" frameX="-165" frameY="-92" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond alt up0001" x="630" y="0" width="221" height="261" frameX="-168" frameY="-95" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond alt left0000" x="228" y="1015" width="209" height="208" frameX="-141" frameY="-141" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond alt left0001" x="1209" y="216" width="162" height="214" frameX="-184" frameY="-140" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond curious0000" x="1209" y="0" width="177" height="216" frameX="-194" frameY="-136" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond curious0001" x="1209" y="430" width="149" height="214" frameX="-211" frameY="-138" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond curious0002" x="1209" y="430" width="149" height="214" frameX="-211" frameY="-138" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond curious0003" x="1209" y="644" width="149" height="214" frameX="-211" frameY="-138" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond curious0004" x="1049" y="218" width="149" height="214" frameX="-211" frameY="-138" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond curious0005" x="1049" y="218" width="149" height="214" frameX="-211" frameY="-138" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond curious0006" x="1049" y="218" width="149" height="214" frameX="-211" frameY="-138" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond spin0000" x="1049" y="432" width="155" height="213" frameX="-210" frameY="-138" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond spin0001" x="196" y="786" width="169" height="229" frameX="-202" frameY="-130" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond spin0002" x="0" y="1226" width="216" height="157" frameX="-182" frameY="-163" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond spin0003" x="0" y="1015" width="228" height="211" frameX="-173" frameY="-144" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond spin0004" x="777" y="786" width="157" height="219" frameX="-207" frameY="-132" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond spin0005" x="365" y="786" width="209" height="228" frameX="-188" frameY="-132" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond spin0006" x="1019" y="1015" width="218" height="159" frameX="-175" frameY="-172" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond spin0007" x="437" y="1015" width="232" height="208" frameX="-170" frameY="-140" frameWidth="640" frameHeight="360" />
+<SubTexture name="html almond spin0008" x="1049" y="0" width="160" height="218" frameX="-207" frameY="-136" frameWidth="640" frameHeight="360" />
+</TextureAtlas>

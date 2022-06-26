@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="concerned.png"><SubTexture name="concerned idle0000" x="888" y="0" width="222" height="334" frameX="-253" frameY="-25" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned idle0001" x="888" y="0" width="222" height="334" frameX="-253" frameY="-25" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned idle0002" x="666" y="346" width="222" height="338" frameX="-253" frameY="-21" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned idle0003" x="666" y="346" width="222" height="338" frameX="-253" frameY="-21" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned idle0004" x="444" y="0" width="222" height="341" frameX="-253" frameY="-18" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned idle0005" x="444" y="0" width="222" height="341" frameX="-253" frameY="-18" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned right0000" x="666" y="0" width="222" height="341" frameX="-247" frameY="-18" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned right0001" x="666" y="0" width="222" height="341" frameX="-247" frameY="-18" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned right0002" x="0" y="346" width="222" height="341" frameX="-250" frameY="-18" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned right0003" x="0" y="346" width="222" height="341" frameX="-250" frameY="-18" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned down0000" x="0" y="687" width="222" height="325" frameX="-253" frameY="-34" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned down0001" x="0" y="687" width="222" height="325" frameX="-253" frameY="-34" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned down0002" x="888" y="334" width="222" height="330" frameX="-253" frameY="-29" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned down0003" x="888" y="334" width="222" height="330" frameX="-253" frameY="-29" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned left0000" x="222" y="346" width="222" height="341" frameX="-260" frameY="-18" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned left0001" x="222" y="346" width="222" height="341" frameX="-260" frameY="-18" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned left0002" x="444" y="346" width="222" height="341" frameX="-257" frameY="-18" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned left0003" x="444" y="346" width="222" height="341" frameX="-257" frameY="-18" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned up0000" x="0" y="0" width="222" height="346" frameX="-253" frameY="-13" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned up0001" x="0" y="0" width="222" height="346" frameX="-253" frameY="-13" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned up0002" x="222" y="0" width="222" height="343" frameX="-253" frameY="-16" frameWidth="640" frameHeight="360" />
+<SubTexture name="concerned up0003" x="222" y="0" width="222" height="343" frameX="-253" frameY="-16" frameWidth="640" frameHeight="360" />
+</TextureAtlas>

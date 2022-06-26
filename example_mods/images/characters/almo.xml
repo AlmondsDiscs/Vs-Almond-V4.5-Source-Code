@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="almo.png"><SubTexture name="almo idle0000" x="3557" y="0" width="757" height="861" frameX="-96" frameY="-124" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo idle0001" x="3557" y="0" width="757" height="861" frameX="-96" frameY="-124" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo idle0002" x="0" y="2172" width="834" height="990" frameX="-93" frameY="-97" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo idle0003" x="0" y="2172" width="834" height="990" frameX="-93" frameY="-97" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo idle0004" x="0" y="1118" width="805" height="1054" frameX="-91" frameY="-144" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo idle0005" x="0" y="1118" width="805" height="1054" frameX="-91" frameY="-144" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo idle0006" x="1328" y="0" width="734" height="1098" frameX="-137" frameY="-79" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo idle0007" x="1328" y="0" width="734" height="1098" frameX="-137" frameY="-79" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo idle0008" x="659" y="0" width="669" height="1116" frameX="-163" frameY="-62" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo idle0009" x="659" y="0" width="669" height="1116" frameX="-163" frameY="-62" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo idle0010" x="0" y="0" width="659" height="1118" frameX="-163" frameY="-60" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo idle0011" x="0" y="0" width="659" height="1118" frameX="-163" frameY="-60" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo right0000" x="2261" y="2172" width="770" height="917" frameX="-172" frameY="-121" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo right0001" x="2261" y="2172" width="770" height="917" frameX="-172" frameY="-121" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo right0002" x="2765" y="0" width="792" height="1009" frameX="-149" frameY="-56" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo right0003" x="2765" y="0" width="792" height="1009" frameX="-149" frameY="-56" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo up0000" x="2062" y="0" width="703" height="1057" frameX="-49" frameY="-46" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo up0001" x="2062" y="0" width="703" height="1057" frameX="-49" frameY="-46" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo up0002" x="805" y="1118" width="677" height="1042" frameX="-175" frameY="-57" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo up0003" x="805" y="1118" width="677" height="1042" frameX="-175" frameY="-57" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo left0000" x="834" y="2172" width="738" height="987" frameX="-200" frameY="-58" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo left0001" x="834" y="2172" width="738" height="987" frameX="-200" frameY="-58" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo left0002" x="1482" y="1118" width="758" height="1039" frameX="-195" frameY="-35" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo left0003" x="1482" y="1118" width="758" height="1039" frameX="-195" frameY="-35" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo down0000" x="2765" y="1009" width="709" height="995" frameX="-202" frameY="-156" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo down0001" x="2765" y="1009" width="709" height="995" frameX="-202" frameY="-156" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo down0002" x="1572" y="2172" width="689" height="979" frameX="-219" frameY="-162" frameWidth="960" frameHeight="1280" />
+<SubTexture name="almo down0003" x="1572" y="2172" width="689" height="979" frameX="-219" frameY="-162" frameWidth="960" frameHeight="1280" />
+</TextureAtlas>

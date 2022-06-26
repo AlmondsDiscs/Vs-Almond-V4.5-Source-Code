@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lmao_kaboom.png"><SubTexture name="lmao_kaboom stand0000" x="0" y="0" width="640" height="360" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="lmao_kaboom boom0000" x="640" y="0" width="640" height="360" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="lmao_kaboom boom0001" x="0" y="360" width="640" height="360" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="lmao_kaboom boom0002" x="640" y="360" width="640" height="360" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="lmao_kaboom fire0000" x="0" y="720" width="640" height="360" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="lmao_kaboom fire0001" x="640" y="720" width="640" height="360" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+</TextureAtlas>

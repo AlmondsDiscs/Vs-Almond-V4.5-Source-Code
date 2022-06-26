@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="basednoob.png"><SubTexture name="basednoob stand0000" x="694" y="0" width="342" height="419" frameX="-53" frameY="-301" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob right0000" x="0" y="439" width="350" height="414" frameX="-80" frameY="-306" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob right0001" x="0" y="439" width="350" height="414" frameX="-80" frameY="-306" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob right0002" x="350" y="439" width="349" height="409" frameX="-69" frameY="-311" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob right0003" x="350" y="439" width="349" height="409" frameX="-69" frameY="-311" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob down0000" x="359" y="853" width="360" height="359" frameX="-90" frameY="-361" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob down0001" x="359" y="853" width="360" height="359" frameX="-90" frameY="-361" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob down0002" x="0" y="853" width="359" height="374" frameX="-87" frameY="-346" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob down0003" x="0" y="853" width="359" height="374" frameX="-87" frameY="-346" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob left0000" x="1036" y="402" width="350" height="400" frameX="-18" frameY="-320" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob left0001" x="1036" y="402" width="350" height="400" frameX="-18" frameY="-320" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob left0002" x="1036" y="0" width="352" height="402" frameX="-26" frameY="-318" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob left0003" x="1036" y="0" width="352" height="402" frameX="-26" frameY="-318" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob up0000" x="0" y="0" width="345" height="439" frameX="-38" frameY="-281" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob up0001" x="0" y="0" width="345" height="439" frameX="-38" frameY="-281" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob up0002" x="345" y="0" width="349" height="432" frameX="-40" frameY="-288" frameWidth="1280" frameHeight="720" />
+<SubTexture name="basednoob up0003" x="345" y="0" width="349" height="432" frameX="-40" frameY="-288" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
