@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tree.png"><SubTexture name="tree move0000" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0001" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0002" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0003" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0004" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0005" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0006" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0007" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0008" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0009" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0010" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0011" x="0" y="0" width="653" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0012" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0013" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0014" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0015" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0016" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0017" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0018" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0019" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0020" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0021" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0022" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+<SubTexture name="tree move0023" x="653" y="0" width="646" height="960" frameX="0" frameY="0" frameWidth="1280" frameHeight="960" />
+</TextureAtlas>
