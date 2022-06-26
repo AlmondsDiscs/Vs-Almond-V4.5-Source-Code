@@ -49,7 +49,7 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Nebula_Zorua - VCR Shader code
 _____________________________________
 
-# Things i changed and added for this mod
+# Things i changed and added for this mod (aka changelog)
 
 ## Weeks:
 ### Sarcasm:
