@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "them almondidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "them almondleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "them almondyoo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "them almondright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "them almondup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/them",
+	"position": [
+		-50,
+		30
+	],
+	"healthicon": "him",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-250,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

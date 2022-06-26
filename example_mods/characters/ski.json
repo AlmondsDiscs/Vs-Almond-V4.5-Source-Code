@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ski down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				262
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ski up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ski idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				51,
+				-9
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "ski fuckyou",
+			"indices": []
+		},
+		{
+			"offsets": [
+				51,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": true,
+			"name": "ski fuckyou"
+		},
+		{
+			"offsets": [
+				51,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "ski fuckyou"
+		},
+		{
+			"offsets": [
+				183,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "ski right"
+		},
+		{
+			"offsets": [
+				183,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ski right"
+		},
+		{
+			"offsets": [
+				186,
+				116
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ski left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ski",
+	"position": [
+		100,
+		370
+	],
+	"healthicon": "ski",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		101,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

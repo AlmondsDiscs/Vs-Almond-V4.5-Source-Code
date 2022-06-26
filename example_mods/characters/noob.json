@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				420,
+				310
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "v2 bored idle"
+		},
+		{
+			"offsets": [
+				412,
+				309
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "v2 drink"
+		},
+		{
+			"offsets": [
+				420,
+				310
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "v2 point"
+		},
+		{
+			"offsets": [
+				410,
+				300
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "v2 sit"
+		},
+		{
+			"offsets": [
+				412,
+				308
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "v2 jump"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/caped_noobv2",
+	"position": [
+		380,
+		-30
+	],
+	"healthicon": "noob",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		220,
+		60
+	],
+	"camera_position": [
+		-400,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

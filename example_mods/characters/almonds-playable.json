@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-29,
+				100
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "almond_the_spritesheet right"
+		},
+		{
+			"offsets": [
+				-40,
+				110
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "almond_the_spritesheet down"
+		},
+		{
+			"offsets": [
+				-36,
+				120
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "almond_the_spritesheet up"
+		},
+		{
+			"offsets": [
+				-10,
+				117
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "almond_the_spritesheet left"
+		},
+		{
+			"offsets": [
+				-34,
+				105
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": false,
+			"name": "almond_the_spritesheet idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/almond_the_spritesheet",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "almonds",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		95,
+		95
+	],
+	"camera_position": [
+		-170,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

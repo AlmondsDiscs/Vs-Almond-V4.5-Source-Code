@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "almond Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "almond Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				34
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "almond Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				17
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "almond Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-7
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "almond idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-110
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatAreYouDoingHere",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/almond_assets",
+	"position": [
+		0,
+		-120
+	],
+	"healthicon": "almond",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		155,
+		255
+	],
+	"camera_position": [
+		-180,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lmfao deadass",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lmfao shit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lmfao lean",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lmfao guh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lmfao fuckyou",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/lmfao",
+	"position": [
+		50,
+		340
+	],
+	"healthicon": "blueman",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		41,
+		155
+	],
+	"camera_position": [
+		-170,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

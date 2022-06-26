@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "almo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				-26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "almo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "almo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				157
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "almo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-178,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "almo right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/almo",
+	"position": [
+		-270,
+		-310
+	],
+	"healthicon": "almo",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		0,
+		0
+	],
+	"camera_position": [
+		120,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

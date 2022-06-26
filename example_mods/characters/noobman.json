@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lmfao spin",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lmfao up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lmfao irhgt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lmfao down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lmfao left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/lmfao",
+	"position": [
+		50,
+		340
+	],
+	"healthicon": "noob",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		206,
+		70
+	],
+	"camera_position": [
+		-170,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				420
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right",
+			"indices": [
+				1,
+				0,
+				0,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				420
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left",
+			"indices": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				419
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down",
+			"indices": [
+				1,
+				0,
+				0,
+				2,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				174,
+				419
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf up",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"offsets": [
+				155,
+				420
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				3,
+				3,
+				4,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND",
+	"position": [
+		-60,
+		260
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-240,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

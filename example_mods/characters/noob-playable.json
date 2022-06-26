@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				428,
+				309
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "caped up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				418,
+				319
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "caped right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				428,
+				309
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "caped left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				428,
+				309
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "caped idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				428,
+				309
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "caped idle",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"offsets": [
+				462,
+				320
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "caped down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/caped",
+	"position": [
+		120,
+		300
+	],
+	"healthicon": "noob-playable",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		203,
+		61
+	],
+	"camera_position": [
+		370,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

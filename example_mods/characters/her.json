@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-45,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "them salmondidle"
+		},
+		{
+			"offsets": [
+				-45,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "them salmondleft"
+		},
+		{
+			"offsets": [
+				-63,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "them salmondright"
+		},
+		{
+			"offsets": [
+				-40,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "them salmondwoah"
+		},
+		{
+			"offsets": [
+				-45,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "them salmondup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/them",
+	"position": [
+		-340,
+		30
+	],
+	"healthicon": "her",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

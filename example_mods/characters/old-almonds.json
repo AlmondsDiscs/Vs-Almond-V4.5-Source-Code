@@ -1,0 +1,108 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "almonds Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "ComeTakeALookAtThisMic",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				2
+			],
+			"name": "almonds Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				2
+			],
+			"name": "almonds Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				1,
+				2
+			],
+			"name": "almonds Sing Note UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "almonds idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/almonds_assets",
+	"position": [
+		0,
+		-110
+	],
+	"healthicon": "old-almonds",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		96,
+		96
+	],
+	"camera_position": [
+		-170,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
