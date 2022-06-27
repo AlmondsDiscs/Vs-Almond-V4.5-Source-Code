@@ -20,7 +20,7 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Glubbee - Art
 
 ## A Bunch of unneccesary credits but i don't want to feel anxious all the time so yea
-* Tsuraran Creator of Cynthia - OG Composer for Bee-ware
+* Tsuraran - Creator of Cynthia, OG Composer for Bee-ware
 * Hooda The Antagonist (i had to credit them) - OG Composer of No Villains
 * AyyBeff - OG Composer (or remixer idk) of No Heroes
 * Cynda - OG Composer of Strawberry, Decimal (OLD), and Galactic
