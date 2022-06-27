@@ -98,7 +98,7 @@ _____________________________________
   * New icons for almost everyone
   * Added Nest But Awesome song
   * newgrounds_logo.png
-  * ![newgrounds_logo](https://user-images.githubusercontent.com/90089034/176049234-fb2a162f-68b9-4843-ae0c-29d13ab9b20d.png)
+  ![newgrounds_logo](https://user-images.githubusercontent.com/90089034/176049234-fb2a162f-68b9-4843-ae0c-29d13ab9b20d.png)
   * funkay.png 
-  * ![funkay](https://user-images.githubusercontent.com/90089034/176049695-918893f1-2503-4030-bf62-853db1838049.png)
+  ![funkay](https://user-images.githubusercontent.com/90089034/176049695-918893f1-2503-4030-bf62-853db1838049.png)
   * Better BG for the song Based
