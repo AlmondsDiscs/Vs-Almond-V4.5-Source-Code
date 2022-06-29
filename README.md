@@ -1,7 +1,6 @@
 # Friday Night Funkin' - The Almond Mod
 Vs Almond, the unknown mod that 2k people have seen
 this is what i got for the mod so far
-![yeaaaaa](https://user-images.githubusercontent.com/90089034/176349197-a6585509-8950-4701-8dbe-6f6b2bed8281.png)
 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
