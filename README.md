@@ -1,3 +1,8 @@
+# This Version of the mod (executable version of vs almond) is not finished yet and is very buggy!!
+do not try to compile the source code yet, there are way too many bugs that have to be fixed!!!
+i am very sorry to people ive asked to help me compile the source code :skull:
+thank you for reading this (if you did), i will leave this source code project behind for a while until im done with the actual mod
+
 # Friday Night Funkin' - The Almond Mod
 Vs Almond, the unknown mod that 2k people have seen
 this is what i got for the mod so far
