@@ -40,6 +40,8 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Rareblin - OG Composer of Defeat
 * MoldyGH - OG Composer of House and Cheating
 
+most of the people here will be removed cuz im making my own original songs for the v6 update!!!!!!!!!!!!
+
 ## Psych Engine Credits
 * Shadow Mario - Psych Engine Creator, Coding
 * RiverOaken - Arts and Animations for Psych Engine
