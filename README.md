@@ -39,6 +39,7 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * lostinstruments - OG Composer of For Hire
 * Rareblin - OG Composer of Defeat
 * MoldyGH - OG Composer of House and Cheating
+* Vruzzen - OG Composer of Blue Pokemon Encore
 
 most of the people here will be removed cuz im making my own original songs for the v6 update!!!!!!!!!!!!
 
